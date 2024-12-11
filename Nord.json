@@ -1,0 +1,26 @@
+{
+  "shared" : {
+    "backgroundColor" : "#4C566A",
+    "colorPaletteOverrides" : [
+      "#2e3440", #black
+      "#BF616A", #red
+      "#A3BE8C", #green
+      "#EBCB8B", #yellow
+      "#b48ead", #purple
+      "#b48ead", #purple-pink
+      "#88c0d0", #light-blue
+      "#ECEFF4", #light-white
+      "#81a1c1", #regular-blue
+      "#bf616a", #red-also
+      "#a3be8c", #green-also
+      "#ebcb8b", #yellow-also
+      "#b48ead", #purple-again
+      "#b48ead", #purple-pink-also
+      "#8fbcbb", #another-lightish-blue
+      "#ECEFF4"  #white
+    ],
+    "cursorColor" : "#E5E9F0",
+    "foregroundColor" : "#E5E9F0"
+  },
+  "version" : 1
+}
